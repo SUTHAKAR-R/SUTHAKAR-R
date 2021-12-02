@@ -24,8 +24,3 @@
 [![Suthakar’s github stats](https://github-readme-stats.vercel.app/api?username=suthakar-r)](https://github.com/suthakar-r)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthakar-r&layout=compact)](https://github.com/suthakar-r)
-
-<!---
-SUTHAKAR-R/SUTHAKAR-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
